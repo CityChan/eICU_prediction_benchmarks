@@ -1,5 +1,7 @@
 # Data Mining - Analyzing Model Tradeoffs in Predicting Length of Stay (LOS) in eICU Patients
 
+This is a team project finished by Abhinau Kumar Venkataramanan, Huancheng Chen, Nishamathi Kumaraswamy, Parveen Kumari and Zhengzhong Tu.
+
 A detailed explanation of our experiments and results can be found in [this blog entry](https://abhinaukumar.github.io/post/eicu-tradeoffs). In this README file, we include instructions on how to run the code.
 
 ## Preprocessing the Data
